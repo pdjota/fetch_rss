@@ -3,3 +3,7 @@
 !/test
 !/package.json
 !/package-lock.json
+!/index.js
+!/.eslint.json
+!/.gitignore
+!/README
